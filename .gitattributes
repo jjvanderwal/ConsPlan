@@ -1,2 +1,7 @@
 * text=auto !eol
+/DESCRIPTION -text
 /NAMESPACE -text
+R/sann.R -text
+man/ConsPlan-package.Rd -text
+man/sann.Rd -text
+src/sann.c -text
